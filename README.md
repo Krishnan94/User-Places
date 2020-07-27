@@ -14,3 +14,6 @@ In BackEnd NodeJS following Packages were used
  3. Jsonwebtoken
  4. Mongoose
 
+## Important Note
+1. This project will not run until you give google API key in index.html for froentend and in location.js(in Util folder)
+2. Make sure you provide your own MongoDB connection.
